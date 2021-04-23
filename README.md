@@ -16,7 +16,7 @@ This project was proposed by Rocketseat as the final exam for the GoStack Bootca
 
 Certification
 ---
- [English](certificate/rocketseat-certificate.pdf)
+ [English](certificate/rocketseat-certificate.pdf)  
  [Português](certificate/certificado-rocketseat.pdf)  
 
 License
