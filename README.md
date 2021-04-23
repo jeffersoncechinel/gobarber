@@ -9,6 +9,7 @@ Gobarber is an appointments scheduling platform for barber shops and beauty salo
 Motivation
 ----
 This project was proposed by Rocketseat as the final exam for the GoStack Bootcamp certification.
+
 Certificate: [English](certificate/rocketseat-certificate.pdf) [Português](certificate/certificado-rocketseat.pdf)  
 
 
