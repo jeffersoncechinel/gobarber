@@ -10,12 +10,14 @@ Motivation
 ----
 This project was proposed by Rocketseat as the final exam for the GoStack Bootcamp certification.
 
-Certificate: [English](certificate/rocketseat-certificate.pdf) [Português](certificate/certificado-rocketseat.pdf)  
-
-
 [GoBarber API repository](https://github.com/jeffersoncechinel/gobarber-api)    
 [GoBarber Web repository](https://github.com/jeffersoncechinel/gobarber-web)    
 [GoBarber Mobile repository](https://github.com/jeffersoncechinel/gobarber-mobile)
+
+Certification
+---
+ [English](certificate/rocketseat-certificate.pdf)
+ [Português](certificate/certificado-rocketseat.pdf)  
 
 License
 ----
