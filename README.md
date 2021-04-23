@@ -10,6 +10,10 @@ Motivation
 ----
 This project was proposed by Rocketseat as the final exam for the GoStack Bootcamp certification.
 
+Repositories
+----
+The whole code is hosted in 3 repositories respectively.
+
 [GoBarber API repository](https://github.com/jeffersoncechinel/gobarber-api)    
 [GoBarber Web repository](https://github.com/jeffersoncechinel/gobarber-web)    
 [GoBarber Mobile repository](https://github.com/jeffersoncechinel/gobarber-mobile)
