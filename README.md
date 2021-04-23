@@ -20,8 +20,8 @@ The whole code is hosted in 3 repositories respectively.
 
 Certification
 ---
- [English](certificate/rocketseat-certificate.pdf)  
- [Português](certificate/certificado-rocketseat.pdf)  
+ [English](certificates/rocketseat-certificate.pdf)  
+ [Português](certificates/certificado-rocketseat.pdf)  
 
 License
 ----
