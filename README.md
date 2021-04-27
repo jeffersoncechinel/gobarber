@@ -4,7 +4,7 @@
   <img src="https://github.com/jeffersoncechinel/gobarber-web/blob/master/resources/logo.svg" alt="logo" />
 </p>
 
-Gobarber is an appointments scheduling platform for barber shops and beauty salons. This application provides a mobile app where clients can choose the service provider and the appointment date and time for the services. The service providers then make use of the desktop application to access its own panel of scheduled appointments filtered by a date selected in the calendar.
+Gobarber is an appointments scheduling platform for barber shops and beauty salons. This application provides a mobile app where clients can choose the service provider and the appointment date and time for the services. The service providers then make use of the web application to access its own panel of scheduled appointments filtered by a date selected in the calendar.
 
 Motivation
 ----
